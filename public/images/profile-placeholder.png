@@ -1,0 +1,5 @@
+<img
+  src="/images/profile-placeholder.png"
+  alt="Profile"
+  className="rounded-full w-24 h-24 mx-auto"
+/>
